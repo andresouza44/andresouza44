@@ -3,13 +3,13 @@
 
 Como primeira formação em Engenharia Química, possuo mais de 20 anos de experiência no seguimento de conversão de papel.
 
-Atualmente estou buscando novos aprendizados, ingressando em uma nova profissão: Análise e desenvolvimento Sistemas; que é um antigo sonho profissional; enfrentando assim o grande desafio que é a mudança em minha carreira após os 50 anos.
+Atualmente estou buscando novos aprendizados ingressando em uma nova profissão: Análise e desenvolvimento Sistemas; que é um antigo sonho profissional; enfrentando assim o grande desafio que é a mudança em minha carreira após os 50 anos.
 
 
 
 
 
-## 🔭 Atualmente estou aprendendo:
+## 🔭 Linguagens que estou estudando:
 <div>
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
