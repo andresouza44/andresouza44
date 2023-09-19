@@ -9,7 +9,8 @@ Atualmente estou buscando novos aprendizados ingressando em uma nova profissão:
 
 
 
-## 🔭 Linguagens que estou estudando:
+## 🔭 Atualmente estou estudando :
+Java e Spring Boot.
 <div>
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
