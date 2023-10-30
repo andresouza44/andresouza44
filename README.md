@@ -9,15 +9,16 @@ Atualmente estou buscando novos aprendizados ingressando em uma nova profissão:
 
 
 
-## 🔭 Atualmente estou estudando :
-Java e Spring Boot.
+## 🔭 Linguagens que tenho estudando :
+
 <div>
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
+  
  
 </div>
 
-## 🚀 Tecnologias utilizadas:
+## 🚀 Tecnologias utilizadas nos projetos:
 Tecnologias e ferramentas utilizadas no desenvolvimento dos Projetos:
 <div>
   <img  loading="lazy" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
