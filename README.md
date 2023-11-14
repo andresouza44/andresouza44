@@ -14,8 +14,7 @@ Atualmente estou buscando novos aprendizados ingressando em uma nova profissão:
 <div>
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
   <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
-  <img width="50" height="50" loading="lazy" src="https://www.flaticon.com/free-icon/js_5968292"/>  
-  
+
 
  
   
