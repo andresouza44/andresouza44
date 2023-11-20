@@ -12,7 +12,7 @@ Atualmente estou buscando novos aprendizados ingressando em uma nova profissão:
 ### 🔭 Estou aprendendo sobre:
 
 <div>
-  <img width="50" height="50" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
+  <img width="48px" height="48px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" "/> 
   <img width="48px" height="48px" loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />  
   <img width="48px" height="48px" loading="lazy" src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" /> 
   
@@ -23,7 +23,7 @@ Atualmente estou buscando novos aprendizados ingressando em uma nova profissão:
 </div>
 
 ### 🚀 Tecnologias e ferramentas  utilizadas:
-Tecnologias e ferramentas utilizadas no desenvolvimento dos Projetos:
+
 <div>
   <img  loading="lazy" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
   <img  loading="lazy" src="https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=for-the-badge&logo=Spring-Boot&logoColor=white">
@@ -37,8 +37,9 @@ Tecnologias e ferramentas utilizadas no desenvolvimento dos Projetos:
   <img  loading="lazy" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black">
 </div>
 
+## 
 
-## Contato:
+### Contato:
 
 <div style= "display: inline" >
     <a href = "mailto:andresouza44@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
